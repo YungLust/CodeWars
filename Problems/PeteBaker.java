@@ -25,3 +25,4 @@ public class PeteBaker {
         return cakesAmount.orElse(0);
     }
 }
+//https://www.codewars.com/kata/525c65e51bf619685c000059/
